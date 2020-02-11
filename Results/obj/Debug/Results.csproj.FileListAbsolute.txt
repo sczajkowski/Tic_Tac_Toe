@@ -1,0 +1,12 @@
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\bin\Debug\Results.exe.config
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\bin\Debug\Results.exe
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\bin\Debug\Results.pdb
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.exe
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.pdb
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.ResultsForm.resources
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\tic_tac_toe\Results\obj\Debug\Results.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Menu.exe.config
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Menu.exe
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Menu.pdb
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.exe
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.pdb
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Game.exe
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Game.pdb
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Game.exe.config
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.MenuForm.resources
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\tic_tac_toe\Menu\obj\Debug\Menu.ResultsForm.resources
